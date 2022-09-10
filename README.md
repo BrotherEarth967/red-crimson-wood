@@ -4,7 +4,7 @@ Has it ever come to your mind that Crimson wood is called Crimson, but its actua
 
 Red Crimson Wood simply recolors all of the purple Crimson wood materials, from signs to doors to stripped logs.
 
-## Licence
+## License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
